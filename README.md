@@ -9,6 +9,7 @@ This contains the python code used to create all the visualizations which after 
 This contains the original dataset which after loading with python, on which the EDA is performed. 
 
 ## Docs
+This contains report summary of whole project
 
 
 
